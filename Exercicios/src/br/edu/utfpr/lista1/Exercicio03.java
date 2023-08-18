@@ -30,7 +30,5 @@ public class Exercicio03 {
 		float media = aux / (float) funcionario;
 		
 		System.out.println("A media salarial dos funcionários é de: R$" + media);
-		
 	}
-	
 }
